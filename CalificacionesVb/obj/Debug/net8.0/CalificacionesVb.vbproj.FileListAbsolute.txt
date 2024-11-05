@@ -1,0 +1,14 @@
+/home/sistemas/Documentos/Normal10/ProgramacionII/practica_parcial/CalificacionesVb/obj/Debug/net8.0/CalificacionesVb.GeneratedMSBuildEditorConfig.editorconfig
+/home/sistemas/Documentos/Normal10/ProgramacionII/practica_parcial/CalificacionesVb/obj/Debug/net8.0/CalificacionesVb.AssemblyInfoInputs.cache
+/home/sistemas/Documentos/Normal10/ProgramacionII/practica_parcial/CalificacionesVb/obj/Debug/net8.0/CalificacionesVb.AssemblyInfo.vb
+/home/sistemas/Documentos/Normal10/ProgramacionII/practica_parcial/CalificacionesVb/obj/Debug/net8.0/CalificacionesVb.vbproj.CoreCompileInputs.cache
+/home/sistemas/Documentos/Normal10/ProgramacionII/practica_parcial/CalificacionesVb/bin/Debug/net8.0/CalificacionesVb
+/home/sistemas/Documentos/Normal10/ProgramacionII/practica_parcial/CalificacionesVb/bin/Debug/net8.0/CalificacionesVb.deps.json
+/home/sistemas/Documentos/Normal10/ProgramacionII/practica_parcial/CalificacionesVb/bin/Debug/net8.0/CalificacionesVb.runtimeconfig.json
+/home/sistemas/Documentos/Normal10/ProgramacionII/practica_parcial/CalificacionesVb/bin/Debug/net8.0/CalificacionesVb.dll
+/home/sistemas/Documentos/Normal10/ProgramacionII/practica_parcial/CalificacionesVb/bin/Debug/net8.0/CalificacionesVb.pdb
+/home/sistemas/Documentos/Normal10/ProgramacionII/practica_parcial/CalificacionesVb/obj/Debug/net8.0/CalificacionesVb.dll
+/home/sistemas/Documentos/Normal10/ProgramacionII/practica_parcial/CalificacionesVb/obj/Debug/net8.0/refint/CalificacionesVb.dll
+/home/sistemas/Documentos/Normal10/ProgramacionII/practica_parcial/CalificacionesVb/obj/Debug/net8.0/CalificacionesVb.pdb
+/home/sistemas/Documentos/Normal10/ProgramacionII/practica_parcial/CalificacionesVb/obj/Debug/net8.0/CalificacionesVb.genruntimeconfig.cache
+/home/sistemas/Documentos/Normal10/ProgramacionII/practica_parcial/CalificacionesVb/obj/Debug/net8.0/ref/CalificacionesVb.dll
