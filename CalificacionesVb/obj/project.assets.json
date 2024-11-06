@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/sistemas/.nuget/packages/": {}
+    "/home/lean/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sistemas/Documentos/Normal10/ProgramacionII/practica_parcial/CalificacionesVb/CalificacionesVb.vbproj",
+      "projectUniqueName": "/home/lean/Documentos/001-- Analsita_sistemas/004 - ProgramacionII/fundamentosPractica/CalificacionesVb/CalificacionesVb.vbproj",
       "projectName": "CalificacionesVb",
-      "projectPath": "/home/sistemas/Documentos/Normal10/ProgramacionII/practica_parcial/CalificacionesVb/CalificacionesVb.vbproj",
-      "packagesPath": "/home/sistemas/.nuget/packages/",
-      "outputPath": "/home/sistemas/Documentos/Normal10/ProgramacionII/practica_parcial/CalificacionesVb/obj/",
+      "projectPath": "/home/lean/Documentos/001-- Analsita_sistemas/004 - ProgramacionII/fundamentosPractica/CalificacionesVb/CalificacionesVb.vbproj",
+      "packagesPath": "/home/lean/.nuget/packages/",
+      "outputPath": "/home/lean/Documentos/001-- Analsita_sistemas/004 - ProgramacionII/fundamentosPractica/CalificacionesVb/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/sistemas/.nuget/NuGet/NuGet.Config"
+        "/home/lean/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

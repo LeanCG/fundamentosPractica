@@ -15,7 +15,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("CalificacionesVb"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e998d41f8a16a317b84c98184403a47187cf5030"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("CalificacionesVb"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("CalificacionesVb"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

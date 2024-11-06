@@ -12,3 +12,18 @@
 /home/sistemas/Documentos/Normal10/ProgramacionII/practica_parcial/CalificacionesVb/obj/Debug/net8.0/CalificacionesVb.pdb
 /home/sistemas/Documentos/Normal10/ProgramacionII/practica_parcial/CalificacionesVb/obj/Debug/net8.0/CalificacionesVb.genruntimeconfig.cache
 /home/sistemas/Documentos/Normal10/ProgramacionII/practica_parcial/CalificacionesVb/obj/Debug/net8.0/ref/CalificacionesVb.dll
+/home/lean/Documentos/001-- Analsita_sistemas/004 - ProgramacionII/fundamentosPractica/CalificacionesVb/obj/Debug/net8.0/CalificacionesVb.GeneratedMSBuildEditorConfig.editorconfig
+/home/lean/Documentos/001-- Analsita_sistemas/004 - ProgramacionII/fundamentosPractica/CalificacionesVb/obj/Debug/net8.0/CalificacionesVb.AssemblyInfoInputs.cache
+/home/lean/Documentos/001-- Analsita_sistemas/004 - ProgramacionII/fundamentosPractica/CalificacionesVb/obj/Debug/net8.0/CalificacionesVb.AssemblyInfo.vb
+/home/lean/Documentos/001-- Analsita_sistemas/004 - ProgramacionII/fundamentosPractica/CalificacionesVb/obj/Debug/net8.0/CalificacionesVb.vbproj.CoreCompileInputs.cache
+/home/lean/Documentos/001-- Analsita_sistemas/004 - ProgramacionII/fundamentosPractica/CalificacionesVb/obj/Debug/net8.0/CalificacionesVb.sourcelink.json
+/home/lean/Documentos/001-- Analsita_sistemas/004 - ProgramacionII/fundamentosPractica/CalificacionesVb/obj/Debug/net8.0/CalificacionesVb.dll
+/home/lean/Documentos/001-- Analsita_sistemas/004 - ProgramacionII/fundamentosPractica/CalificacionesVb/obj/Debug/net8.0/refint/CalificacionesVb.dll
+/home/lean/Documentos/001-- Analsita_sistemas/004 - ProgramacionII/fundamentosPractica/CalificacionesVb/obj/Debug/net8.0/CalificacionesVb.pdb
+/home/lean/Documentos/001-- Analsita_sistemas/004 - ProgramacionII/fundamentosPractica/CalificacionesVb/bin/Debug/net8.0/CalificacionesVb
+/home/lean/Documentos/001-- Analsita_sistemas/004 - ProgramacionII/fundamentosPractica/CalificacionesVb/bin/Debug/net8.0/CalificacionesVb.deps.json
+/home/lean/Documentos/001-- Analsita_sistemas/004 - ProgramacionII/fundamentosPractica/CalificacionesVb/bin/Debug/net8.0/CalificacionesVb.runtimeconfig.json
+/home/lean/Documentos/001-- Analsita_sistemas/004 - ProgramacionII/fundamentosPractica/CalificacionesVb/bin/Debug/net8.0/CalificacionesVb.dll
+/home/lean/Documentos/001-- Analsita_sistemas/004 - ProgramacionII/fundamentosPractica/CalificacionesVb/bin/Debug/net8.0/CalificacionesVb.pdb
+/home/lean/Documentos/001-- Analsita_sistemas/004 - ProgramacionII/fundamentosPractica/CalificacionesVb/obj/Debug/net8.0/CalificacionesVb.genruntimeconfig.cache
+/home/lean/Documentos/001-- Analsita_sistemas/004 - ProgramacionII/fundamentosPractica/CalificacionesVb/obj/Debug/net8.0/ref/CalificacionesVb.dll

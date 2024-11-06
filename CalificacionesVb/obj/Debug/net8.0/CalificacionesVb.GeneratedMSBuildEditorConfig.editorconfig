@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CalificacionesVb
-build_property.ProjectDir = /home/sistemas/Documentos/Normal10/ProgramacionII/practica_parcial/CalificacionesVb/
+build_property.ProjectDir = /home/lean/Documentos/001-- Analsita_sistemas/004 - ProgramacionII/fundamentosPractica/CalificacionesVb/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
